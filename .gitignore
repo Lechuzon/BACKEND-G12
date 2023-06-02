@@ -1,0 +1,4 @@
+# ignorará todas las carpetas cuyo nombre empiece con la palabra 'entorno'
+entorno_*
+# python cache > es la forma en la cual python accede de una manera más rápida a la ubicación de los archivos
+*.pyc
